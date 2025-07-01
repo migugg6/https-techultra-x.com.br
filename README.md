@@ -1,2 +1,3 @@
 # https-techultra-x.com.br
-review my website and give me feedback
+visit my website here: https://techultra-x.netlify.app
+follow me in twitter(X): https://x.com/Miguggamer
